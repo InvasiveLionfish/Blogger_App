@@ -117,3 +117,8 @@ a{
 .post .write-comment{
 	float: right;
 }
+
+.post .post-photo-wrapper{
+	width: 100%;
+	height: 450px;
+}
